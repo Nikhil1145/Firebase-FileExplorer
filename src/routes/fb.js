@@ -1,12 +1,12 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDjX1LFeVG5KqnDe9eqdlH-L0W_yWMa1BI",
-  authDomain: "storage-svelte.firebaseapp.com",
-  projectId: "storage-svelte",
-  storageBucket: "storage-svelte.appspot.com",
-  messagingSenderId: "742898973827",
-  appId: "1:742898973827:web:8d209bffc652ba49e2afb6"
+  apiKey: "AIzaSyB1IFQvZHJjiJ3ILDisbLjZ0HtzzzUO7wE",
+  authDomain: "storage-svelte2.firebaseapp.com",
+  projectId: "storage-svelte2",
+  storageBucket: "storage-svelte2.appspot.com",
+  messagingSenderId: "653842700581",
+  appId: "1:653842700581:web:aaa226324c1842c84262cc"
 };
 
 // Initialize Firebase
